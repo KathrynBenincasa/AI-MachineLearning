@@ -1,2 +1,3 @@
 To run this code on your device, add the app.py to your project folder/directory and then add a folder called templates and add the two html files in there please
 In addition, please look at the Colab attatched that details all of the 1-3 parts of the assignment as some code was not included or altered in my UI and is detailed there with their analysis
+If you do run the UI code, please use http://127.0.0.1:5000 to access the site, it pops up in the terminal, and http://127.0.0.1:5000/feedback_list to see the feedback values
